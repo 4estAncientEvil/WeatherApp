@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 12 23:23:42 EET 2019
+0.baseType=DIRECTORY
+0.base=/home/diss/IdeaProjects/androidKotlin/WeatherApp/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <include layout="@layout/toolbar" />
+    <TextView
+            android:id="@+id/tvCity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/choose_a_city"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:padding="10dp"/>
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+            <Button
+
+                    android:id="@+id/btnLviv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/LVIV"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnMykolaiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/MYKOLAIV"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnCherkasy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/CHERKASY"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnChernihiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/CHERNIHIV"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnChernivtsi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/CHERNIVTSI"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnDniepro"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/DNIEPRO"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnDonetsk"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/DONETSK"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnI_F"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/IVANO_FRANKIVSK"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnKherson"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/KHERSON"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnKhmelnytskyy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/KHMELNYTSKYY"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnKropyvnytskyi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/KROPYVNYTSKYI"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnKyiv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/KYIV"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnLuhansk"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/LUHANSK"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnLutsk"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/LUTSK"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnOdessa"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ODESSA"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnPoltava"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/POLTAVA"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnRivne"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/RIVNE"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnSimferopol"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/SIMFEROPOL"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnSumy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/SUMY"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnTernopil"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/TERNOPIL"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnUzhhorod"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/UZHHOROD"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnVinnytsya"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/VINNYTSYA"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnZaporizhzhya"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ZAPORIZHZHYA"
+                    android:textAllCaps="false" />
+
+            <Button
+
+                    android:id="@+id/btnZhytomyr"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/ZHYTOMYR"
+                    android:textAllCaps="false" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

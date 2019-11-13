@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d10a93c070a5dd5d63849c73941745c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/9ed857a4ce72edf5a40641f31aff2f79/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-common-0.10.8.aar/67973f4e98e391fb535842fd8a621ee1/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/6b32da35b5d5b55d0e04a79e5a56d6db/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/58fabffb4f4868b7969ee8abc220e8ac/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.8.aar/3b22d853d686f854caed5f79c0e98ec8/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.8.aar/4edcac649243bf35d937c57b493b326c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2d7ea0a3c2273c6c99359dea12590be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/78739c68edec4c96ae2b14b72348a1fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5b99ce0890add4bff103bda03f0eff54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/62bb88368ac9e78073e781a33b93ad3b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/15437376a78b5b10ef1d3fa14f6fba24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/17ed2bf3abcce63b62e7b57bc01df576/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2850bc9e760ac23336e79b016e9079ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/59e3dd137e86e680bd9e6f5f2145c613/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2c038981c93e6bfa21d203304431c13d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e2ef1daf0ed8b2712bf9c4536848e070/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/18793e01b6784e5f98b5d9092aa93d7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/01616900f2259d31bc4ad1c7f5d2dba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/edf648372787887881b727204ea75082/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df62cebe552e7f7bc0f2a85731d838e3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ee318cf5de960cae18202c8ea2cab0f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2304dc427dfd75db848dcd8a85a44fc0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f1645f851426ee8f7a82d7c4f995b24/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7e5104b120c69308977fb940fdc0886e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/89443861bd1605aa864bf738c66f5d5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f9baf913cf0235547cd8d193b801d4c2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0886f847b6feae9080dccefd08738e9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a673fced05e2f06805b7486108255b67/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/63855aa867c3e448a2a0b64a862ef6c5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b445f7054d1cbe4bd0fd54d646ce2b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7a699fd617aecd75d2280530f88bbb2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:4:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-common-0.10.8.aar/67973f4e98e391fb535842fd8a621ee1/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-common-0.10.8.aar/67973f4e98e391fb535842fd8a621ee1/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/6b32da35b5d5b55d0e04a79e5a56d6db/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/6b32da35b5d5b55d0e04a79e5a56d6db/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/58fabffb4f4868b7969ee8abc220e8ac/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/58fabffb4f4868b7969ee8abc220e8ac/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df62cebe552e7f7bc0f2a85731d838e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df62cebe552e7f7bc0f2a85731d838e3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ee318cf5de960cae18202c8ea2cab0f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ee318cf5de960cae18202c8ea2cab0f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df62cebe552e7f7bc0f2a85731d838e3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:9:9-50
+activity#com.diss.weatherapp.ui.activities.MainActivity
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:15:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:18:17-68
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.diss.weatherapp.ui.activities.DetailActivity
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:parentActivityName
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:24:13-57
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:26:13-28:81
+	android:value
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:28:17-79
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:27:17-63
+activity#com.diss.weatherapp.ui.activities.SettingsActivity
+ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:30:9-32:47
+	android:label
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml:31:13-59
+uses-sdk
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d10a93c070a5dd5d63849c73941745c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d10a93c070a5dd5d63849c73941745c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/9ed857a4ce72edf5a40641f31aff2f79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/9ed857a4ce72edf5a40641f31aff2f79/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-common-0.10.8.aar/67973f4e98e391fb535842fd8a621ee1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-common:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-common-0.10.8.aar/67973f4e98e391fb535842fd8a621ee1/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/6b32da35b5d5b55d0e04a79e5a56d6db/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sqlite:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-sqlite-0.10.8.aar/6b32da35b5d5b55d0e04a79e5a56d6db/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/58fabffb4f4868b7969ee8abc220e8ac/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/anko-commons-0.10.8.aar/58fabffb4f4868b7969ee8abc220e8ac/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.8.aar/3b22d853d686f854caed5f79c0e98ec8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:sqlite-base:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/sqlite-base-0.10.8.aar/3b22d853d686f854caed5f79c0e98ec8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.8.aar/4edcac649243bf35d937c57b493b326c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/diss/.gradle/caches/transforms-1/files-1.1/commons-base-0.10.8.aar/4edcac649243bf35d937c57b493b326c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2d7ea0a3c2273c6c99359dea12590be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f2d7ea0a3c2273c6c99359dea12590be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/78739c68edec4c96ae2b14b72348a1fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/78739c68edec4c96ae2b14b72348a1fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5b99ce0890add4bff103bda03f0eff54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5b99ce0890add4bff103bda03f0eff54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/62bb88368ac9e78073e781a33b93ad3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/62bb88368ac9e78073e781a33b93ad3b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/15437376a78b5b10ef1d3fa14f6fba24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/15437376a78b5b10ef1d3fa14f6fba24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/17ed2bf3abcce63b62e7b57bc01df576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/17ed2bf3abcce63b62e7b57bc01df576/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2850bc9e760ac23336e79b016e9079ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2850bc9e760ac23336e79b016e9079ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/59e3dd137e86e680bd9e6f5f2145c613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/59e3dd137e86e680bd9e6f5f2145c613/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2c038981c93e6bfa21d203304431c13d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2c038981c93e6bfa21d203304431c13d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e2ef1daf0ed8b2712bf9c4536848e070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e2ef1daf0ed8b2712bf9c4536848e070/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/18793e01b6784e5f98b5d9092aa93d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/18793e01b6784e5f98b5d9092aa93d7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/01616900f2259d31bc4ad1c7f5d2dba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/01616900f2259d31bc4ad1c7f5d2dba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/edf648372787887881b727204ea75082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/edf648372787887881b727204ea75082/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df62cebe552e7f7bc0f2a85731d838e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df62cebe552e7f7bc0f2a85731d838e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ee318cf5de960cae18202c8ea2cab0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3ee318cf5de960cae18202c8ea2cab0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2304dc427dfd75db848dcd8a85a44fc0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/2304dc427dfd75db848dcd8a85a44fc0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f1645f851426ee8f7a82d7c4f995b24/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/5f1645f851426ee8f7a82d7c4f995b24/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7e5104b120c69308977fb940fdc0886e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/7e5104b120c69308977fb940fdc0886e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/89443861bd1605aa864bf738c66f5d5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/89443861bd1605aa864bf738c66f5d5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f9baf913cf0235547cd8d193b801d4c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f9baf913cf0235547cd8d193b801d4c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0886f847b6feae9080dccefd08738e9c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0886f847b6feae9080dccefd08738e9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a673fced05e2f06805b7486108255b67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/diss/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/a673fced05e2f06805b7486108255b67/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/63855aa867c3e448a2a0b64a862ef6c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/63855aa867c3e448a2a0b64a862ef6c5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b445f7054d1cbe4bd0fd54d646ce2b1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b445f7054d1cbe4bd0fd54d646ce2b1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7a699fd617aecd75d2280530f88bbb2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/diss/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a7a699fd617aecd75d2280530f88bbb2/AndroidManifest.xml:20:5-44
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/diss/IdeaProjects/androidKotlin/WeatherApp/app/src/main/AndroidManifest.xml

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="settings">Settings</string>
+    <string name="city_zipcode">City ZipCode</string>
+    <string name="LVIV">Lviv</string>
+    <string name="MYKOLAIV">Mykolaiv</string>
+    <string name="CHERKASY">Cherkasy</string>
+    <string name="CHERNIHIV">Chernihiv</string>
+    <string name="CHERNIVTSI">Chernivtsi</string>
+    <string name="DNIEPRO">Dniepro</string>
+    <string name="DONETSK">Donetsk</string>
+    <string name="IVANO_FRANKIVSK">Ivano-Frankivsk</string>
+    <string name="KHERSON">Kherson</string>
+    <string name="KHMELNYTSKYY">Khmelnytskyy</string>
+    <string name="KROPYVNYTSKYI">Kropyvnytskyi</string>
+    <string name="KYIV">Kyiv</string>
+    <string name="LUHANSK">Luhansk</string>
+    <string name="LUTSK">Lutsk</string>
+    <string name="ODESSA">Odessa</string>
+    <string name="POLTAVA">Poltava</string>
+    <string name="RIVNE">Rivne</string>
+    <string name="SIMFEROPOL">Simferopol</string>
+    <string name="SUMY">Sumy</string>
+    <string name="TERNOPIL">Ternopil</string>
+    <string name="UZHHOROD">Uzhhorod</string>
+    <string name="VINNYTSYA">Vinnytsya</string>
+    <string name="ZAPORIZHZHYA">Zaporizhzhya</string>
+    <string name="ZHYTOMYR">Zhytomyr</string>
+    <string name="choose_a_city">Оберіть місто:</string>
+</resources>
